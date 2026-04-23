@@ -1,0 +1,13 @@
+{
+    "Watty": {
+        "hp": 70,
+        "atk": 16,
+        "df": 3,
+        "mana": 110,
+        "xp": 0,
+        "lvl": 1,
+        "element": "Hydro",
+        "class": "Ladino",
+        "race": "Feral"
+    }
+}
